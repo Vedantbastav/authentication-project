@@ -1,0 +1,12 @@
+{
+  "name": "register-login-system-backend2.0",
+  "version": "1.0.0",
+  "description": "demo-web-app",
+  "main": "index.js",
+   "author": "vedant",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.0"
+  }
+}
